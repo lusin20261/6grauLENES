@@ -1,0 +1,11 @@
+g:Estaban esperando
+z:A quien
+g:Al error
+f:A que hora llega 
+c:A las 5 
+b:De la mañana 
+c:no
+b:De la tarde 
+c:Tam poco
+b:Entonces a que hora
+c:A las 5 
