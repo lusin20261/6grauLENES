@@ -1,0 +1,5 @@
+1:mi mamá
+2:mi papá
+3:mi abue
+4:mi gallina
+5:y mi perra la blanquita
