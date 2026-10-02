@@ -1,0 +1,9 @@
+primero entramos a alumnos
+segundo vamos a github y 
+copiamos el codigo ssh
+tercero hacemos git clone y hacemos control+shift+v
+cuarto entramos con cd y creamos: mkdir examenSeptiembre
+quinto entramos a la carpeta
+sexto creamos touch examen.txt
+setimo agregamos una descripcion del  examen
+y lo subimos unu espero se entienda
